@@ -1,0 +1,10 @@
+ADS1115.c:8:6:ADS_WriteRegister	32	static
+ADS1115.c:20:10:ADS_ReadRegister	24	static
+ADS1115.c:34:6:ADS_Init	8	static
+ADS1115.c:45:10:ADS_SetContinuousConv	16	static
+ADS1115.c:87:10:ADS_ReadADC_SingleEnded	24	static
+ADS1115.c:138:10:ADS_ReadADC_Continuous	8	static
+ADS1115.c:153:9:ADS_ReadADC_Differential_0_1	16	static
+ADS1115.c:191:9:ADS_ReadADC_Differential_2_3	16	static
+ADS1115.c:229:6:ADS_StartComparator_SingleEnded	24	static
+ADS1115.c:268:9:ADS_GetLastConversionResults	8	static
